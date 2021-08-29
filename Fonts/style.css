@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Kometa';
+    src: local('Kometa Regular'), local('Kometa-Regular'),
+        url('Kometa-Regular.woff2') format('woff2'),
+        url('Kometa-Regular.woff') format('woff'),
+        url('Kometa-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
