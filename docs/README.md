@@ -10,7 +10,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](/images/screenshot.png "screenshot")
+![screenshot](/docs/images/screenshot.png "screenshot")
 
 
 # you can try it from here:
